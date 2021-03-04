@@ -27,10 +27,10 @@ $mahasiswa = [
         "gambar" => "linggih.jpg"
     ],
     [
-        "nama" => "Geraldi Pamungkas", 
+        "nama" => "wulan hs", 
         "nrp" => "203040152",
         "email" => "GPtM@gmail.com",
-        "jurusan" => "Teknik Mesin",
+        "jurusan" => "Teknik informatika",
         "gambar" => "linggih.jpg"
     ]
 ];
