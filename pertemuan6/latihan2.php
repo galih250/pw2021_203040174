@@ -29,7 +29,7 @@ $mahasiswa = [
     [
         "nama" => "wulan hs", 
         "nrp" => "203040152",
-        "email" => "GPtM@gmail.com",
+        "email" => "Wulanhs@gmail.com",
         "jurusan" => "Teknik informatika",
         "gambar" => "linggih.jpg"
     ]
