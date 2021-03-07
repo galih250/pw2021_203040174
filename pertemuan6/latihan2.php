@@ -27,9 +27,15 @@ $mahasiswa = [
         "gambar" => "linggih.jpg"
     ],
     [
+<<<<<<< HEAD
         "nama" => "Wulanhs", 
         "nrp" => "203040152",
         "email" => "wulanhs@gmail.com",
+=======
+        "nama" => "wulan hs", 
+        "nrp" => "203040152",
+        "email" => "Wulanhs@gmail.com",
+>>>>>>> b9c41c5e7ca5aceb622a02c625d9928922274c14
         "jurusan" => "Teknik informatika",
         "gambar" => "linggih.jpg"
     ]
