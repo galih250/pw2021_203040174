@@ -22,7 +22,7 @@ $mahasiswa = [
         "nrp" => "203040174",
         "email" => "galihk250@gmail.com",
         "jurusan" => "Teknik Informatika",
-        "gambar" => "linggih.jph"
+        "gambar" => "linggih.jpg"
     ],
     [
         "nama" => "Geraldi Pamungkas", 
